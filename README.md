@@ -14,6 +14,7 @@ The aim of this analysis is to examine the revenue trends for different product 
 6.	Which rank level generates the lowest revenue across all product categories?
 7.	Which country generates the highest revenue across all product categories?
 8.	Which rank level generates the highest revenue across all product categories?
+![Sales Revenue Analysis Dashboard](https://github.com/Kadiis/Sales-Revenue-Analysis/assets/106782819/a6a02e58-db15-4338-9c94-a200ce8d09e5)
 
 
   ## Findings
